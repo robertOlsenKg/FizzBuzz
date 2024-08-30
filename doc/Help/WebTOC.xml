@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="8246464b-815f-44c0-ae34-fa09601eccab" Title="FizzBuzz" Url="html/61958d10-acec-aac4-cb86-1181d4ce6d4d.htm">
+    <HelpTOCNode Id="49164708-185c-435c-995e-5e72107080ba" Title="CFizzBuzz Class" Url="html/6a8c403a-915a-16b7-101d-9f1c59856de8.htm">
+      <HelpTOCNode Title="CFizzBuzz Constructor " Url="html/1bb112a5-7ad3-a049-bb45-802a5a1bc8e2.htm" />
+      <HelpTOCNode Id="40fda45d-1430-4ab2-954f-0d222de187f2" Title="CFizzBuzz Methods" Url="html/54d04d6c-9439-151c-cd04-1b9404f4d6a7.htm">
+        <HelpTOCNode Title="buzz Method " Url="html/b9194218-04f8-d835-36aa-ce9b9fbe041a.htm" />
+        <HelpTOCNode Title="fizz Method " Url="html/698b8594-b3da-215d-fb12-f6929fff2cc5.htm" />
+        <HelpTOCNode Title="FizzBuzz Method " Url="html/eda29995-0ddb-3250-dd7c-dc8c3900c6d7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

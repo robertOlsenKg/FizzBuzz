@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="buzz method" Url="html/b9194218-04f8-d835-36aa-ce9b9fbe041a.htm" />
+  <HelpKINode Title="CFizzBuzz class">
+    <HelpKINode Title="CFizzBuzz Class" Url="html/6a8c403a-915a-16b7-101d-9f1c59856de8.htm" />
+    <HelpKINode Title="constructor" Url="html/1bb112a5-7ad3-a049-bb45-802a5a1bc8e2.htm" />
+    <HelpKINode Title="methods" Url="html/54d04d6c-9439-151c-cd04-1b9404f4d6a7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CFizzBuzz.buzz method" Url="html/b9194218-04f8-d835-36aa-ce9b9fbe041a.htm" />
+  <HelpKINode Title="CFizzBuzz.CFizzBuzz constructor" Url="html/1bb112a5-7ad3-a049-bb45-802a5a1bc8e2.htm" />
+  <HelpKINode Title="CFizzBuzz.fizz method" Url="html/698b8594-b3da-215d-fb12-f6929fff2cc5.htm" />
+  <HelpKINode Title="CFizzBuzz.FizzBuzz method" Url="html/eda29995-0ddb-3250-dd7c-dc8c3900c6d7.htm" />
+  <HelpKINode Title="fizz method" Url="html/698b8594-b3da-215d-fb12-f6929fff2cc5.htm" />
+  <HelpKINode Title="FizzBuzz method" Url="html/eda29995-0ddb-3250-dd7c-dc8c3900c6d7.htm" />
+  <HelpKINode Title="FizzBuzz namespace" Url="html/61958d10-acec-aac4-cb86-1181d4ce6d4d.htm" />
+  <HelpKINode Title="FizzBuzz.CFizzBuzz class" Url="html/6a8c403a-915a-16b7-101d-9f1c59856de8.htm" />
+</HelpKI>
